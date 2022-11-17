@@ -18,6 +18,7 @@ Start a cluster:
 </br>
 **docker-compose -f docker-compose-expose.yml up -d**
 </br>
+</br>
 Stop a cluster:
 </br>
 **docker-compose stop**
@@ -33,6 +34,7 @@ https://www.kafkatool.com/download.html
 Configure kafka tools to connect with kafka cluster.
 </br>
 ![1](https://user-images.githubusercontent.com/33762836/202356838-d51adcc7-5c5e-455d-95ab-44c601bd2813.PNG)
+</br>
 ![2](https://user-images.githubusercontent.com/33762836/202356870-81497e67-297b-4a74-a99b-4ef228c926bb.PNG)
 
 
@@ -50,7 +52,7 @@ To start produce data go to /kafka-producer directory and run:
 **python producer.py** or **py producer.py**
 </br>
 </br>
-![3](https://user-images.githubusercontent.com/33762836/202356872-4d02e8f1-c97d-49c4-afd0-d4a6b5afe0f8.PNG)
+![3](https://user-images.githubusercontent.com/33762836/202383210-c200403d-bfda-4eb1-bb85-27e8f897b049.PNG)
 
 
 ## View Data

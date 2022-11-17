@@ -6,7 +6,7 @@ producer = KafkaProducer(
     value_serializer=lambda x: dumps(x).encode('utf-8')
 )
 for j in range(9999):
-    print("Iteration", j)
-    data = {'data baru': j}
+    print("Data baru", j)
+    data = {'Data baru': j}
     producer.send('topic_baru', value=data)
     sleep(0.3)
