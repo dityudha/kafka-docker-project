@@ -20,7 +20,7 @@ Start a cluster:
 </br>
 Stop a cluster:
 </br>
-- ```docker-compose stop```
+- ```docker-compose stop ```
 
 ## Connect Kafka Cluster
 
