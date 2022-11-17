@@ -16,11 +16,11 @@ The image is available directly from [Docker Hub](https://hub.docker.com/r/wurst
 
 Start a cluster:
 </br>
-- ```docker-compose -f docker-compose-expose.yml up -d ```
+**docker-compose -f docker-compose-expose.yml up -d**
 </br>
 Stop a cluster:
 </br>
-- ```docker-compose stop ```
+**docker-compose stop**
 
 ## Connect Kafka Cluster
 
