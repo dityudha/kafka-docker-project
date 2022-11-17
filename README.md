@@ -49,10 +49,11 @@ Example Producer App create with python.
 </br>
 To start produce data go to /kafka-producer directory and run:
 </br>
+</br>
 **python producer.py** or **py producer.py**
 </br>
 </br>
-![3](https://user-images.githubusercontent.com/33762836/202383210-c200403d-bfda-4eb1-bb85-27e8f897b049.PNG)
+![3](https://user-images.githubusercontent.com/33762836/202384105-59006c9d-8523-49e8-b265-02870dd82a61.PNG)
 
 
 ## View Data
@@ -70,6 +71,7 @@ View produced data with kafka tools.
 Example Consumer App create with python.
 </br>
 To start consume go to /kafka-consumer directory and run:
+</br>
 </br>
 **python consumer.py** or **py consumer.py**
 </br>
